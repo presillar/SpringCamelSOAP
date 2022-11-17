@@ -5,11 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.apache.camel.example</groupId>
-    <artifactId>SpringCamelSOAP</artifactId>
-    <version>1.0.0</version>
-    <packaging>pom</packaging>
-
     <artifactId>camel-example-spring-ws</artifactId>
+    <version>1.0.0</version>
     <packaging>war</packaging>
     <name>Camel :: Example :: Spring :: Web Services</name>
     <description>An example showing how to work with Camel and Spring Web Services</description>
